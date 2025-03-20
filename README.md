@@ -5,4 +5,4 @@ You can <http://www.pdbbind.org.cn/download.php> download the required data.
 ## usage
 - Firstly, use preprocessing.py to perform preliminary preprocessing on the data.
 - Create a graph for input using dataset_DVNDTA.py
-- Train the model using train_devndta.py.
+- Train the model using train_dvndta.py.
